@@ -1,0 +1,7 @@
+HTTP/1.0 404 Not Found
+Connection: keep-alive
+
+HTTP/1.0 200 OK
+Connection: close
+
+Transmission correct!
